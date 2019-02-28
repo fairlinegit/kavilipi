@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 // My Update
     // new project
-
+// temp vairable
     Toolbar toolbar;
     ViewPager view_pager;
     ViewPagerAdapter adapter;
