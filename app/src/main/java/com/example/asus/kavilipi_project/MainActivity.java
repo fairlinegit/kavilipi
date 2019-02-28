@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 // My Update
     // new project
-// yesh vivek with bhabhi
+
     Toolbar toolbar;
     ViewPager view_pager;
     ViewPagerAdapter adapter;
